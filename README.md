@@ -32,7 +32,7 @@
 
 ## DEMO 
 
-    Below is the demo link for the sorting visualizer. Please test out my project! 
+    Below is the demo link for the path finder visualizer. Please test out my project! 
 
 * [https://pathfinder-visualizer-git-staging-jinlee487.vercel.app/](https://pathfinder-visualizer-git-staging-jinlee487.vercel.app/)
 
