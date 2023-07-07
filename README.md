@@ -39,7 +39,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![https://github.com/jinlee487/jinlee487.github.io/assets/46912607/d7d32a45-6b04-4d31-ba3d-7720b665ed65][https://github.com/jinlee487/jinlee487.github.io/assets/46912607/d7d32a45-6b04-4d31-ba3d-7720b665ed65]
+![Image Description](https://github.com/jinlee487/jinlee487.github.io/assets/46912607/d7d32a45-6b04-4d31-ba3d-7720b665ed65)
+
 
 As a challenge project for my personal porfolio, I decided to make a pathfinder visualizer. I was inspired by Clément Mihailescu, a popular youtube content creator and software engineer, to make a sorting visualizer as my portfolio project. 
 
