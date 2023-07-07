@@ -39,7 +39,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![homepage Screen Shot][homepage-screenshot]
+![homepage Screen Shot][https://github.com/jinlee487/jinlee487.github.io/assets/46912607/d7d32a45-6b04-4d31-ba3d-7720b665ed65]
 
 As a challenge project for my personal porfolio, I decided to make a pathfinder visualizer. I was inspired by Clément Mihailescu, a popular youtube content creator and software engineer, to make a sorting visualizer as my portfolio project. 
 
@@ -57,7 +57,7 @@ Below are the major frameworks/libraries used to for my project.
 * [Material UI](https://mui.com/)
 * [TypeScript](https://www.typescriptlang.org/)
 
-Learning react was a goal of mine since late last year and I could not pass up on the opportunity.
+Learning NextJS was a goal of mine since this year and I could not pass up on the opportunity.
 
 When I was learning Next, I noticed many tutorials were using mui and decided that it would be easier for me to use the mui library. 
 
