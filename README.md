@@ -96,7 +96,7 @@ git Link -[git](https://github.com/jinlee487)
 Below are the reference sites I used to learn django and react
 
 * [mui](https://mui.com/)
-* [React](https://reactjs.org/docs/getting-started.html)
+* [NEXT](https://nextjs.org/)
 * [TS](https://www.typescriptlang.org/)
 
 
